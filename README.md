@@ -15,4 +15,4 @@ a = fr / m
 <br>
 <br><br>
 <br>
-Integrantes: Guilherme Bodnar, Patrick Leal, Sheylla Oliveira
+Integrantes: Guilherme Bodnar, Patrick Leal, Sheylla Oliveira, Pedro Antonio;
