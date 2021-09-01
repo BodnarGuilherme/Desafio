@@ -9,9 +9,9 @@ Monte um algoritmo que encontre o valor de aceleração adquirida pelo corpo, se
 <br>
 <br>
 Fórmulas: <br> 
-fr = m * a
+fr = m * a      (para calcular força de aceleração)
 <br>
-a = fr / m
+a = fr / m      (para calcular aceleração)
 <br>
 <br><br>
 <br>
