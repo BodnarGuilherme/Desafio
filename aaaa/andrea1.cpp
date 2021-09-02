@@ -8,7 +8,6 @@ int main () {
     float areaA;
     float areaB;
 
-    //q puta enunciado mal feito do krlh
 
     cout<<"Determine o valor do lado de um triangulo equilatero, triangulo A. \n";
     cin>> ladoA;
@@ -18,7 +17,6 @@ int main () {
     areaA = ladoA * 90 / 2;
     areaB = ladoB * 90 /2;
 
-    //já mostrou a area nessa poha
 
     if (areaA > areaB)
     {
